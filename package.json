@@ -1,0 +1,19 @@
+{
+      "name": "gatsby-mongodb-starter",
+      "version": "1.0.0",
+      "description": "Gatsby Starter with MongoDB",
+      "main": "index.js",
+      "scripts": {
+            "start": "gatsby develop",
+            "build": "gatsby build",
+            "serve": "gatsby serve"
+      },
+      "author": "Charles Eller <contact@charleseller.dev>",
+      "license": "MIT",
+      "dependencies": {
+            "gatsby": "^2.2.9",
+            "gatsby-source-mongodb": "^2.0.16",
+            "react": "^16.8.5",
+            "react-dom": "^16.8.5"
+      }
+}
